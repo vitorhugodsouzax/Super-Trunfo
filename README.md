@@ -1,6 +1,6 @@
 # 🃏 Super Trunfo - Cidades em C
 
-Este é um projeto desenvolvido para a disciplina [Nome da Disciplina] na [Nome da Sua Faculdade]. O objetivo é criar a base para um jogo Super Trunfo com o tema "Cidades" (ou Países, conforme o cenário), implementando o sistema de cadastro de cartas em linguagem C.
+Este é um projeto desenvolvido para a disciplina Introdução à Programação de Computadores na Estácio. O objetivo é criar a base para um jogo Super Trunfo com o tema "Cidades" (ou Países, conforme o cenário), implementando o sistema de cadastro de cartas em linguagem C.
 
 ---
 
